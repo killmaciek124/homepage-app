@@ -1,0 +1,26 @@
+HOMEPAGE PLAN: 
+1. Implement redux(reduxtoolkit), routing, sweetalerts2, formik(formy),
+Yup(auth), colors(html course), SEO, firebase/mongoDB.
+2. Get Inspo.
+3. Click to get random picture of kitten (on mail).
+4. W navie zakladki z losowymi funkcjami (o mnie, kittens, moje projekty)
+5. W pathie admin wyswietli sie panel logowania (make it safe!) i po 
+zalogowaniu bede mogl dodac moje nowe projekty (upload fotki + tekst)
+6. (<OPTIONAL>) Jak bedzie ci sie nudzilo dodaj zakladke 'cool' i tam
+bedzie sie wyswietlac jakis losowy obiekt z threeJS 
+7. use API  CRUD APP (create, read, update, delete)
+8. (CONTACT ME)Forma z danymi usera(imie, nazwisko, mail, phone, subject, message)
+ sie wyswietla po kliknieciu na workWithMe! (i mozna
+jakby w UI napisac maila)
+9. Emotka z reflinkiem do githuba i linkedin. 
+10. Zakladka projekty (wyswietla sie projekty w gridzie czyli jakeis kwadrary)
+(tam bedzie opis projektu, link do strony, fotka, i technologies I used)
+11. Business idea: Jesli skoncze freelancersko produkowac strony, 
+to dogadam sie z jakims developerem ze bede mu przekazywac klientow i 
+sciagac 5% od tego co im zaplaca. 
+12. Do's: 
+a) Functional 
+b) Nie dodawaj niepotrzebnych rzeczy
+c) Responsive 
+d) Modern Looking
+e) 1 big project > a few small projects

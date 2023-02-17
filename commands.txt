@@ -6,6 +6,10 @@ npx create-react-app my-app
 npm start
 npm install 
 
+FONTS AND ICONS: 
+(react-icons)
+npm install react-icons --save
+
 Routing: 
 
 npm install react-router-dom
@@ -27,6 +31,7 @@ useMemo, useCallback -> Optimization
 REDUX: 
 (
 npm install @reduxjs/toolkit
++ npm install react-redux
 )
 (store (a w nim dane/state'y + reducery/funkcje), subscribction, )
 lekcja 241 na kursie
@@ -82,3 +87,9 @@ a) sweetalert2! => https://sweetalert2.github.io/
 
 tip: 
 console.loguj {request, params} itp
+
+SEO: 
+Google Search Console Tools
+
+Nodemailer: 
+https://www.youtube.com/watch?v=_3-By9QfFa0
