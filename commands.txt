@@ -93,3 +93,6 @@ Google Search Console Tools
 
 Nodemailer: 
 https://www.youtube.com/watch?v=_3-By9QfFa0
+
+REACT NODEMAILER: 
+https://www.npmjs.com/package/nodemailer-react

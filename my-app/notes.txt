@@ -1,6 +1,6 @@
 HOMEPAGE PLAN: 
-1. Implement redux(reduxtoolkit), routing, sweetalerts2, formik(formy),
-Yup(auth), colors(html course), SEO, firebase/mongoDB.
+1. Implement redux(reduxtoolkit(store)), routing(loders, actions, fetching), sweetalerts2, formik(formy),
+Yup(auth), colors(html course), SEO, firebase/mongoDB, customHooks, common hooks, errors, dynamic styles
 2. Get Inspo.
 3. Click to get random picture of kitten (on mail).
 4. W navie zakladki z losowymi funkcjami (o mnie, kittens, moje projekty)
@@ -24,3 +24,9 @@ b) Nie dodawaj niepotrzebnych rzeczy
 c) Responsive 
 d) Modern Looking
 e) 1 big project > a few small projects
+
+
+IDEAS: 
+-darkmode
+-zrób swoj homepage (jak harrycodes.com) ladny w next js, potem jeden website dla kogos np taty, 
+potem discord bot i potem np jakąs apke 
